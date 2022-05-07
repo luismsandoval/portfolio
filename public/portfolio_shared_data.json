@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Luis Sandoval",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer | USMC Veteran" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/luismsandoval",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/luismsandoval/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProject.jpg"
     },
     "skills": {
       "icons": [
